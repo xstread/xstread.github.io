@@ -9,7 +9,7 @@ I am a computer enthusiast, focusing on low-level programming.
 
 ## My Skills & Interests:
 - Beginner in C programming
-- Want to Rust and Golang
+- Want to Learn Rust and Golang
 - Interested in systems programming
 - Passionate about optimization and performance
 
