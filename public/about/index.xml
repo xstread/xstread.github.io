@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on </title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:13:27 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 05 Dec 2024 00:13:27 +0300</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;&#xA;&lt;p&gt;I am a computer enthusiast, focusing on low-level programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-skills--interests&#34;&gt;My Skills &amp;amp; Interests:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Beginner in C programming&lt;/li&gt;&#xA;&lt;li&gt;Want to Rust and Golang&lt;/li&gt;&#xA;&lt;li&gt;Interested in systems programming&lt;/li&gt;&#xA;&lt;li&gt;Passionate about optimization and performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I’m working to improve my skills and build better software.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
